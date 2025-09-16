@@ -11,7 +11,7 @@ A android app that take down the headache of remembering passwords. It is open s
 
 ## Website
 
-[Vist Website](https://jeeldobariya38.github.io/Passcodes-Website/)
+[Vist Website](https://passcodesapp.github.io/Passcodes-Website/)
 
 ## Compatibility
 
@@ -36,7 +36,13 @@ Note: high version can still run, but are not guaranteed offically.
 
 By, contributing to project you accept the [CONTRIBUTING.md](https://github.com/PasscodesApp/.github/blob/main/CONTRIBUTING.md) & [MIT License](https://github.com/PasscodesApp/.github/blob/main/LICENSE.txt).
 
+## Community & Discussions
+
+You can ask or discuss casually on our [telegram community](https://t.me/passcodescommunity). But for more important discussion and professional discussion (related to security or major migration doubt), create a thread on github discussion in associated repository. telegram community link or handle will not change.. atleast not that fast...
+
+> [!IMPORTANT]
+> Also consider our telegram community as single source of truth in any situation.. so please join there!! because other link of website or of github repository might change over time...
+
 ## Licence
 
 Passcodes Project is license under [MIT](https://github.com/PasscodesApp/.github/blob/main/LICENSE.txt) License. Downloading the app would mean, you are okay and have accepted the license.
-
