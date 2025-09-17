@@ -24,6 +24,10 @@ Android 14 [API level 34] (we support offically)
 Note: high version can still run, but are not guaranteed offically.
 ```
 
+## Documentation & Help Wanted
+
+For developers or support docs, checkot our [documentation repository](https://github.com/PasscodesApp/Passcodes-Docs) or reach out to us on [telegram community](https://t.me/passcodescommunity)...
+
 ## Contribution Are Appreciated!!!
 
 > [!IMPORTANT]
