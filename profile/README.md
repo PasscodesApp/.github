@@ -7,7 +7,7 @@
 A android app that take down the headache of remembering passwords. It is open source solutions that help you in keeping your passwords safe and secure, in your own local storage without ever needing to push them to cloud.
 
 > What we think of passcodes?
-> Password management is one such thing that is as simple as remember a password yet, it very important topic in term of security. So, we as developer of passcodes think to streamline and securing the process as much as possible. [Read more](docs/project-overview.md)
+> Password management is one such thing that is as simple as remember a password yet, it very important topic in term of security. So, we as developer of passcodes think to streamline and securing the process as much as possible. [Read more](https://github.com/PasscodesApp/Passcodes-Docs/blob/main/other-docs/project-overview.md)
 
 ## Website
 
