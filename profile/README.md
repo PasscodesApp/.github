@@ -26,7 +26,9 @@ Note: high version can still run, but are not guaranteed offically.
 
 ## Documentation & Help Wanted
 
-For developers or support docs, checkot our [documentation repository](https://github.com/PasscodesApp/Passcodes-Docs) or reach out to us on [telegram community](https://t.me/passcodescommunity)...
+For developers or support docs, checkout our [documentation repository](https://github.com/PasscodesApp/Passcodes-Docs).
+
+you can also reach out to us on our [telegram community](https://t.me/passcodescommunity)...
 
 ## Contribution Are Appreciated!!!
 
