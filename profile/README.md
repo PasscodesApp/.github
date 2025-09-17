@@ -34,7 +34,7 @@ Note: high version can still run, but are not guaranteed offically.
 >
 > For more, infomation on what kind of contribtuion we approve or allow, please open a issue in our repo. that way you avoid wasteing your time...
 
-By, contributing to project you accept the [CONTRIBUTING.md](https://github.com/PasscodesApp/.github/blob/main/CONTRIBUTING.md) & [MIT License](https://github.com/PasscodesApp/.github/blob/main/LICENSE.txt).
+By, contributing to project you accept the [CONTRIBUTING.md](https://github.com/PasscodesApp/Passcodes-Docs/blob/main/CONTRIBUTING.md) & [MIT License](https://github.com/PasscodesApp/Passcodes-Docs/blob/main/LICENSE.txt).
 
 ## Community & Discussions
 
@@ -45,4 +45,4 @@ You can ask or discuss casually on our [telegram community](https://t.me/passcod
 
 ## Licence
 
-Passcodes Project is license under [MIT](https://github.com/PasscodesApp/.github/blob/main/LICENSE.txt) License. Downloading the app would mean, you are okay and have accepted the license.
+Passcodes Project is license under [MIT](https://github.com/PasscodesApp/Passcodes-Docs/blob/main/LICENSE.txt) License. Downloading the app would mean, you are okay and have accepted the license.
