@@ -39,8 +39,12 @@ you can also reach out to us on our [telegram community](https://t.me/passcodesc
 > There are still other ways to contribute to project.. like by testing app, by contributing to documenation or more or less just by spreading the word around.. about the app. but, code contribution is limited from my side.... & I hope you can understand...
 >
 > For more, infomation on what kind of contribtuion we approve or allow, please open a issue in our repo. that way you avoid wasteing your time...
+>
+> [Read More](https://github.com/PasscodesApp/Passcodes-Docs/blob/main/other-docs/open-contributing-timeline.md)
 
-By, contributing to project you accept the [CONTRIBUTING.md](https://github.com/PasscodesApp/Passcodes-Docs/blob/main/CONTRIBUTING.md) & [MIT License](https://github.com/PasscodesApp/Passcodes-Docs/blob/main/LICENSE.txt).
+By, contributing to project you accept the [Terms For Contributions](https://github.com/PasscodesApp/Passcodes-Docs/blob/main/other-docs/terms-for-contributions.md), [CONTRIBUTING.md](https://github.com/PasscodesApp/Passcodes-Docs/blob/main/CONTRIBUTING.md) & [MIT License](https://github.com/PasscodesApp/Passcodes-Docs/blob/main/LICENSE.txt).
+
+And also have look at [Open Contributing Timeline](https://github.com/PasscodesApp/Passcodes-Docs/blob/main/other-docs/open-contributing-timeline.md).
 
 ## Community & Discussions
 
@@ -49,6 +53,10 @@ You can ask or discuss casually on our [telegram community](https://t.me/passcod
 > [!IMPORTANT]
 > Also consider our telegram community as single source of truth in any situation.. so please join there!! because other link of website or of github repository might change over time...
 
-## Licence
+## Security Policy
 
-Passcodes Project is license under [MIT](https://github.com/PasscodesApp/Passcodes-Docs/blob/main/LICENSE.txt) License. Downloading the app would mean, you are okay and have accepted the license.
+Avaliable here in [PasscodesApp/Passcodes-Docs](https://github.com/PasscodesApp/Passcodes-Docs/blob/main/SECURITY.md).
+
+## License
+
+Passcodes Project is license under [MIT](https://github.com/PasscodesApp/Passcodes-Docs/blob/main/LICENSE.txt) License. Downloading Or Use the app or any associated stuff would mean, you are okay and have accepted the license terms.
