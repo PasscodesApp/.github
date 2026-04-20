@@ -14,7 +14,7 @@ A android app that take down the headache of remembering passwords. It is open s
 - [Visit Website](https://passcodesapp.github.io/Passcodes-Website/)
 - [Discord](https://discord.gg/zPbk2gp3Sg)
 - [Telegram](https://t.me/passcodescommunity)
-- [Contact (jeeldobariya38@gmail.com)](jeeldobariya38@gmail.com)
+- [Contact (jeeldobariya38@gmail.com)](mailto:jeeldobariya38@gmail.com)
 
 ## Compatibility
 
