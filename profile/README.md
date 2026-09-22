@@ -8,7 +8,7 @@ A android app that take down the headache of remembering passwords. It is open s
 ## Socials
 
 - [Visit Website](https://passcodesapp.github.io/Passcodes-Website/)
-- [Discord](https://discord.gg/zPbk2gp3Sg)
+- [Discord](https://discord.gg/kSSkYq7KAQ)
 - [Telegram](https://t.me/passcodescommunity)
 - [Contact (jeeldobariya38@gmail.com)](mailto:jeeldobariya38@gmail.com)
 
@@ -16,7 +16,7 @@ A android app that take down the headache of remembering passwords. It is open s
 
 For developers or support docs, checkout our [documentation](https://passcodesapp.github.io/Passcodes-Docs/).
 
-you can also reach out to us on our [Discord](https://discord.gg/zPbk2gp3Sg).
+you can also reach out to us on our Discord.
 
 ## Contribution Are Appreciated!!!
 
@@ -24,7 +24,7 @@ By, contributing to project you accept the [Terms For Contributions](https://pas
 
 ## Community & Discussions
 
-You can ask or discuss casually on our [telegram community](https://t.me/passcodescommunity). But for more important discussion and professional discussion (related to security or major migration doubt), create a thread on discord discussion in associated repository...
+You can ask or discuss casually on our telegram community. But for more important discussion and professional discussion (related to security or major migration doubt), create a thread on discord discussion in associated repository...
 
 > [!IMPORTANT]
 > Also consider our discord/telegram community as single source of truth in any situation. so please join there!! because other link of website or of github repository might change over time...
